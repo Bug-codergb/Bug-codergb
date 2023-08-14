@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋我是郭斌，一个前端开发人员
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bug-codergb&count_private=true&show_icons=true"/></div>
 <!--
